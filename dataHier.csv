@@ -1,4 +1,4 @@
-﻿name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
+name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
 AKDAG  Fatih,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Improvement,http://www.perdu.com,LASEA BE,Tag1,false,IT Infrastructure Manager,1,3,
 ALUNNI Marie-Laurence,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Executive,http://www.perdu.com,LASEA BE,Tag1,false,HR Manager,2,15,
 ASSENT Sandy,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Improvement,http://www.perdu.com,LASEA BE,Tag1,false,Chief Program Officer,3,45,
