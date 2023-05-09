@@ -1,5 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-NOM_60092 Prénom_37989,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Improvement,http://www.perdu.com,CEO Office,Tag1,false,Fonction_07859,1,3,
+NOM_60092 Prénom_37989,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Improvement,http://www.perdu.com,CEO Office,Tag1,true,Fonction_07859,1,3,
 NOM_11054 Prénom_50064,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Executive,http://www.perdu.com,CEO Office,Tag1,false,Fonction_38993,2,15,
 NOM_20998 Prénom_14587,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Improvement,http://www.perdu.com,CEO Office,Tag1,false,Fonction_86618,3,45,
 NOM_09969 Prénom_46996,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Sales,http://www.perdu.com,CEO Office,Tag1,false,Fonction_18930,4,81,
